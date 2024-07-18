@@ -35,8 +35,4 @@ Contributing:
 Feel free to fork this repository and contribute to the script's development.
 
 License:
-[Specify your desired license, e.g., MIT, GPL, etc.]
-
-Note: Replace the placeholder text with specific details about your script, such as dependencies, limitations, and future plans. Consider using Markdown formatting for better readability and structure.
-
-Would you like to add more details to the README file?
+ MIT
