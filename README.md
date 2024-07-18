@@ -5,9 +5,9 @@ This Bash script automates the creation of Python virtual environments.
 
 Usage:
 
-    Save the script as create_venv.sh.
-    Make it executable: chmod +x create_venv.sh
-    Run the script: ./create_venv.sh
+    Save the script as app.sh.
+    Make it executable: chmod +x app.sh
+    Run the script: ./app.sh
 
 The script will prompt you to enter the desired virtual environment name.
 
