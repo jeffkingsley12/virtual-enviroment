@@ -24,9 +24,9 @@ A comprehensive Bash script for managing Python virtual environments with ease a
 
 1. **Download the script:**
    ```bash
-   curl -O https://raw.githubusercontent.com/yourusername/venv-manager/main/venv_manager.sh
+   curl -O https://raw.githubusercontent.com/jeffkingsley12/venv-manager/main/venv_manager.sh
    # or
-   wget https://raw.githubusercontent.com/yourusername/venv-manager/main/venv_manager.sh
+   wget https://raw.githubusercontent.com/jeffkingsley12/venv-manager/main/venv_manager.sh
    ```
 
 2. **Make it executable:**
